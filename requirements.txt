@@ -1,0 +1,8 @@
+### 📦 `requirements.txt` (for this version)
+
+opencv-python
+mediapipe
+numpy
+pyautogui
+pyperclip
+pywin32; platform_system == "Windows"
